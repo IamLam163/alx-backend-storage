@@ -2,13 +2,6 @@
 -- Column names must be: band_name and lifespan (in years)
 -- attributes formed and split for computing the lifespan
 
-/*
-SELECT band_name,
-(split - formed) AS lifespan
-FROM metal_bands
-WHERE style LIKE '%Glam rock%'
-ORDER BY lifespan DESC;
-*/
 
 /*
 SELECT band_name,
@@ -24,4 +17,3 @@ FROM metal_bands
 WHERE style LIKE '%Glam rock%'
 GROUP BY band_name, split, formed
 ORDER BY lifespan DESC;
-
