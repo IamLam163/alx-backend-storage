@@ -1,5 +1,5 @@
-[main 26999c3] python function insert a document
- 4 files changed, 31 insertions(+), 1 deletion(-)
- create mode 100644 0x01-NoSQL/9-insert_school.py
- create mode 100644 0x01-NoSQL/9test.py
- create mode 100644 0x01-NoSQL/__pycache__/9-insert_school.cpython-37.pyc
+[main 94d2091] fix
+ 4 files changed, 36 insertions(+), 5 deletions(-)
+ create mode 100644 0x01-NoSQL/10-update_topics.py
+ create mode 100644 0x01-NoSQL/10test.py
+ create mode 100644 0x01-NoSQL/__pycache__/10-update_topics.cpython-37.pyc
